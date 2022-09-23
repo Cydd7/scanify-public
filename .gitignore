@@ -1,0 +1,11 @@
+# created by virtualenv automatically
+
+.DS_Store
+venv
+.env
+client_secrets_gs.json
+client_secrets.json
+mycreds.txt
+credentials.json
+lib
+bin
